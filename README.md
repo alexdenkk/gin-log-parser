@@ -1,5 +1,5 @@
 # gin-log-parser
-Cli parser for gin logs
+Cli parser for gin logs \
 Can output metrics or raw/json logs by filter
 
 # Requiremetns
